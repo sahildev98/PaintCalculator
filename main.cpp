@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
-int paintCalculate(){}
+int paintCalculate(){
+  int n;
+  
+}
 
 
 int main() {
