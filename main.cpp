@@ -6,7 +6,9 @@ int paintCalculate(){
   const float w = 1.2;
 
   cout<<"Welcome to the Paint Calculator\n";
-  
+
+  cout<<"Please enter the number of gallons paint required?";
+  cin>>n;
   
 }
 
