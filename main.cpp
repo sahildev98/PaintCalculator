@@ -5,6 +5,7 @@ int paintCalculate(){
   const float p = 0.004;
   const float w = 1.2;
 
+  cout<<"Welcome to the Paint Calculator\n";
   
   
 }
